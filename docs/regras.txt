@@ -1,0 +1,14 @@
+ETAPA 1 - MESAFARTAI
+
+A primeira etapa do projeto tem como objetivo estabelecer as fundações de engenharia, banco de dados e documentação do MESAFARTAI.
+
+Nesta etapa, o grupo deve:
+
+- Criar e organizar o repositório público do projeto no GitHub.
+- Criar o arquivo README.md com a descrição do projeto, alinhamento com a ODS 2 e integrantes.
+- Criar a documentação do projeto na pasta docs.
+- Definir o escopo do projeto e as intenções que serão tratadas.
+- Criar a identidade visual e o logotipo do MESAFARTAI utilizando IA.
+- Criar o banco de dados SQLite do projeto.
+- Inserir dados iniciais de teste no banco de dados.
+- Executar o script do banco de dados e verificar seu funcionamento.
