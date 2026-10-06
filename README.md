@@ -1,6 +1,6 @@
 # PROJETO-MESAFARTAI
 
-# MESAFARTAI – Logística e Inteligência Assistiva no Combate à Fome
+MESAFARTAI – Logística e Inteligência Assistiva no Combate à Fome
 
 ## Sobre o Projeto
 
