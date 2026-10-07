@@ -34,4 +34,4 @@ Durante a conversa, o sistema poderá coletar informações como:
 
 ## Prompt utilizado para criação do logotipo
 
-O prompt utilizado para gerar o logotipo será adicionado nesta seção após a criação da identidade visual.
+Crie um logotipo moderno e simples para o projeto MESAFARTAI, uma plataforma de tecnologia que conecta doadores de alimentos a ONGs para combater a fome. O logotipo deve unir os conceitos de alimento, acolhimento e solidariedade com tecnologia e inteligência artificial assistiva. Utilize elementos visuais que remetam a alimento e conexão tecnológica. Inclua o nome MESAFARTAI de forma legível. O design deve ser limpo, profissional e adequado para uma plataforma digital.
