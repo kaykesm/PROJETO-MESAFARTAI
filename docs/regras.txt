@@ -12,3 +12,21 @@ Nesta etapa, o grupo deve:
 - Criar o banco de dados SQLite do projeto.
 - Inserir dados iniciais de teste no banco de dados.
 - Executar o script do banco de dados e verificar seu funcionamento.
+
+
+
+ETAPA 2 - MESAFARTAI (AULA 09)
+
+A segunda etapa do projeto tem como objetivo implementar e testar o motor de Processamento de Linguagem Natural (NLU) do MESAFARTAI.
+
+Nesta etapa, o grupo deve:
+
+1. Preparar o ambiente de desenvolvimento no VS Code, utilizando Python e instalando as dependências definidas no arquivo requirements.txt.
+
+2. Criar o arquivo src/nlu.py com o motor de NLU, utilizando TF-IDF para transformar textos em dados numéricos e Random Forest com 80 árvores para classificar as intenções.
+
+3. Implementar uma trava de segurança com threshold de 0.60, retornando fallback quando a confiança for inferior a 60% ou a intenção estiver fora do escopo.
+
+4. Executar o arquivo src/nlu.py e testar o reconhecimento das intenções cadastrar_doacao, solicitar_alimentos, consultar_status e fora_de_escopo.
+
+5. Registrar os resultados dos testes no relatório da Etapa 2 e atualizar o repositório do GitHub com os arquivos e a documentação desenvolvidos.
